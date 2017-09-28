@@ -6,7 +6,7 @@ a = (Umur + 5)
 
 print (Nama)
 print (Nim)
-print "umur :"
+print ("umur :")
 print (Umur)
-print "umur setelah lima tahun :"
+print ("umur setelah lima tahun :")
 print (a)
